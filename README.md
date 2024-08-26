@@ -20,7 +20,6 @@ The system is capable of predicting the following classes of eye diseases:
 - Diabetic Retinopathy
 - Glaucoma
 - Cataract
-- Age-related Macular Degeneration (AMD)
 - Normal (No Disease)
 
 ## Installation
