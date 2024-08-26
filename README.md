@@ -28,5 +28,3 @@ To get a local copy up and running, follow these simple steps:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/jeevan251203/Eye_Disease_Detection.git
-
-## Detections![alt text](NL_036.png)![alt text](Retina_069.png)![alt text](Retina_099.png)![alt text](Retina_027.png)
