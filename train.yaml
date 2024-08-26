@@ -1,0 +1,9 @@
+
+path: C:/Users/HP/Documents/Work-Stuff/EyeDetection/data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: retina_disease
+  1: normal
